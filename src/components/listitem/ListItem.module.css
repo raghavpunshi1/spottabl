@@ -1,0 +1,37 @@
+.mainArea{
+    height: 45vh;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px 0px rgb(226, 223, 223);
+    margin-top: 1vh;
+    padding: 2vh;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+
+h2{
+    font-weight: 600;
+    margin-top:-1vh;
+}
+
+.frame{
+    border:1px solid white;
+    margin: 1.3vh;
+    margin-right: 0;
+    border-radius: 10px;
+    width: 100vh;
+    box-shadow: 1px 1px 4px 0px rgb(226, 223, 223);
+    height: 36.7vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sideFunc{
+    display: flex;
+}
+
+/* .finalList{
+    color:Red
+} */

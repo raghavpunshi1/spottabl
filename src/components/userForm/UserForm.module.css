@@ -1,0 +1,19 @@
+.mainBox{
+    height: 37vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1vh;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px 0px rgb(226, 223, 223);
+    width: 50vh;
+}
+
+.boxItem{
+    margin:2vh;
+}
+
+.head{
+    margin-top: -3vh;
+}

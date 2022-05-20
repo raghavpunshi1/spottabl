@@ -1,0 +1,14 @@
+.mainBox{
+    display: flex;
+    display: inline;
+    margin-left: 1vh;
+    margin-bottom: 3vh;
+}
+
+.chip{
+    color: rgb(0, 51, 153);
+    background-color: rgb(164, 194, 253);
+    height: 5vh;
+    width: 7vw;
+    font-weight: 600;
+}

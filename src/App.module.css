@@ -1,0 +1,12 @@
+body{
+    background-color: #e6eeff;
+    font-family: 'Rubik', sans-serif;
+
+    font-family: 'Source Code Pro', monospace;
+}
+
+.App{
+    margin-left: 30vh;
+    margin-right: 30vh;
+    margin-top: 2vh;
+}

@@ -1,0 +1,28 @@
+.mainArea{
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #d9d9d9;
+    width: 62.5vw;
+    height: 10vh;
+}
+
+
+.mainArea:hover{
+    background-color: #d9d9d9;
+}
+
+
+.badaLogo{
+    color: rgb(114, 160, 250);
+    margin-top: 1vh;
+}
+
+.chotaLogo{
+    color: rgb(114, 160, 250);
+    margin-top: -0.2vh;
+    margin-right: 0.5vh;
+}
+
+.subtitles{
+    display:flex
+}
